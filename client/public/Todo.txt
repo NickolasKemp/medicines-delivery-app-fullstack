@@ -1,0 +1,4 @@
+//Todo:
+- make special scroll for cart list
+- rename variable
+- add sorting by price
